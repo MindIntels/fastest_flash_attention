@@ -1,4 +1,4 @@
-# Fastest Flash Attention
+# fastest Flash Attention
 
 Production-ready flash attention implementation combining algorithmic innovations
 from [Dao-AILab/flash-attention](https://github.com/Dao-AILab/flash-attention) (FlashAttention-2/3/4)
